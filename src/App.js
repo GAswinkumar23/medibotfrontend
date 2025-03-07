@@ -2,8 +2,8 @@ import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import confetti from "canvas-confetti"; 
 import "./App.css"; 
-import botAvatar from "./images/bot (2).jpeg"; 
-import userAvatar from "./images/human.jpeg"; 
+import botAvatar from "./images/image.png"; 
+import userAvatar from "./images/human.png"; 
 
 function App() {
   const [message, setMessage] = useState("");
