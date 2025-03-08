@@ -94,7 +94,7 @@ function App() {
       </div>
 
       {/* Footer */}
-      <footer className="footer">&copy; Reserved by NAGASURYA 2025-2026</footer>
+      <footer className="footer">&copy; Aswin kumar G</footer>
     </div>
   );
 }
